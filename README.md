@@ -1,4 +1,4 @@
-# Proyecto Ejercicios con GIT #1
+# Proyecto Ejercicios con GIT
 ### _Presentación_
 Este es un repositorio desde donde utilizo los recursos para GIT.
 
